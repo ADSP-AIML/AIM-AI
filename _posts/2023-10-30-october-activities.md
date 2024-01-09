@@ -9,7 +9,7 @@ pin: true
 
 ## AIM-AI Project: October 2023 - Monthly Activity Overview
 
-<!-- ### Week 1: Strategic Planning and Review
+### Week 1: Strategic Planning and Review
 * **Project Review and Goal Setting**
   * Set overarching goals for September, focusing on key milestones and deliverables.
 
@@ -41,4 +41,4 @@ pin: true
 ### Key Objectives for October:
 1. Advance the development of the DeepBrain-AD model.
 2. Strengthen the integration of multi-modal data for more robust analysis.
-3. Foster collaborative research efforts across different disciplines and teams. -->
+3. Foster collaborative research efforts across different disciplines and teams.
