@@ -4,25 +4,19 @@ icon: fas fa-book
 order: 3
 ---
 
-Based on the research papers found on data governance in healthcare, we have organized them into a few categories. Each category contains papers that share common themes or focus areas. Here are the categories along with a brief description and a selection of relevant papers for each:
+### Previous and Ongoing Publications
 
-1. **Foundational Concepts and Case Studies in Data Governance**:
-   - These papers explore basic principles, frameworks, and real-world applications of data governance in healthcare settings.
-     - "The Significance of Data Governance in Healthcare - A Case Study in a Tertiary Care Hospital" [(Alofaysan et al., 2014)](https://dl.acm.org/doi/10.5220/0004738101780187)
-     - "Health information governance: a literature review" [(Hapudeniya et al., 2019)](https://sljbmi.sljol.info/articles/10.4038/sljbmi.v10i3.8073)
-
-2. **Challenges and Issues in Data Governance**:
-   - These papers discuss various challenges and issues faced in the governance of healthcare data, such as data quality, security, and standardization.
-     - "Health Data Governance Issues in Healthcare Facilities: Perspective of Hospital Management" [(Oktaviana R et al., 2022)](https://ieeexplore.ieee.org/document/9914865)
-     - "The Challenges of Big Data Governance in Healthcare" [(Tse et al., 2018)](https://ieeexplore.ieee.org/document/8456108)
-
-3. **Technological Advances and Big Data in Healthcare Governance**:
-   - These papers focus on the role of technology and big data in enhancing healthcare data governance.
-     - "Big Data Challenges from a Healthcare Governance Perspective" [(Juzwishin, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-06109-8_6)
-     - "Data Warehouse Governance Programs in Healthcare Settings: A Literature Review" [(Elliott et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/25848561/)
-
-4. **Governance Strategies and Best Practices**:
-   - These papers offer insights into effective governance strategies and best practices in healthcare data management.
-     - "Towards a Strategic IT GRC Framework for Healthcare Organizations" [(Alharbi et al., 2022)](https://thesai.org/Publications/ViewPaper?Volume=13&Issue=1&Code=IJACSA&SerialNo=25)
-     - "A Practical Approach to Digital Transformation: A Guide to Health Institutions in Developing Countries" [(Marcelo, 2020)](https://link.springer.com/chapter/10.1007/978-3-030-47994-7_18)
+1. **Liu A, Manuel AM, Dai Y, Fernandes BS, Enduru N, Jia P, et al.** Identifying candidate genes and drug targets for Alzheimer’s disease by an integrative network approach using genetic and brain region-specific proteomic data. Hum Mol Genet. 2022. doi:10.1093/hmg/ddac124
+2. **Dai Y, Jia P, Zhao Z, Gottlieb A.** A method for bridging population-specific genotypes to detect gene modules associated with Alzheimer’s disease. Cells. 2022;11: 2219.
+3. **Kim Y, Zhang K, Savitz SI, Chen L, Schulz PE, Jiang X.** Counterfactual analysis of differential comorbidity risk factors in Alzheimer’s disease and related dementias. PLOS Digit Health. 2022;1: e0000018.
+4. **Bukhbinder AS, Ling Y, Hasan O, Jiang X, Kim Y, Phelps KN, et al.** Risk of Alzheimer’s disease following influenza vaccination: A claims-based cohort study using propensity score matching. J Alzheimers Dis. 2022; 1–14.
+5. **Johnson ECB, Carter EK, Dammer EB, Duong DM, Liu Y, Liu J, et al.** Large-scale deep multi-layer analysis of Alzheimer’s disease brain reveals strong proteomic disease-related changes not observed at the RNA level. Alzheimers Dement. 2021;17 Suppl 3: e055041.
+6. **Tasaki S, Xu J, Avey DR, Johnson L, Petyuk VA, Dawe RJ, et al.** Inferring protein expression changes from mRNA in Alzheimer’s dementia using deep neural networks. Nat Commun. 2022;13: 655.
+7. **Thrush KL, Bennett DA, Gaiteri C, Horvath S, van Dyck CH, Higgins-Chen AT, et al.** Aging the brain: Multi-region methylation principal component based clock in the context of Alzheimer’s disease. bioRxiv. 2022. doi:10.1101/2022.02.28.481849
+8. **Gaiteri C, Connell DR, Sultan FA, Iatrou A, Zhang A, Tasaki S.** Robust, scalable, and meaningful clustering for diverse networks. Genome Biology (in review). 2022.
+9. **Pei G, Fernandes BS, Wang Y-Y, Manuel AM, Jia P, Zhao Z.** A single-cell atlas of the human brain in Alzheimer’s disease and its implications for personalized drug repositioning. eLife (in revision). 2022. doi:10.1101/2022.06.14.496100
+10. **Jia P, Hu R, Yan F, Dai Y, Zhao Z.** Landscape of trait-cell type associations by integrating single-cell transcriptomics-wide and genome-wide association studies (scGWAS). Genome Biol (in revision). 2023.
+11. **Fernandes BS, Inam ME, Enduru N, Zhao Z.** The kynurenine pathway in Alzheimer’s Disease: A meta-analysis of central and peripheral levels (manuscript submitted). Neuroscience and Biobehavioral Reviews. 2023.
+12. **Enduru N, Fernandes BS, Dai Y, Zhao Z.** Genetic overlap between Alzheimer’s Disease and five psychiatric disorders: Specifying shared and unique genetic determinants and causality (in preparation). 2023.
+13. **Li X, Dai Y, Liu A, Fernandes BS, Zhao Z.** Identifying the genetically dysregulated risk and preventative pathways in Alzheimer’s disease (in preparation). 2022.
 

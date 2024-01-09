@@ -5,8 +5,9 @@ icon: fas fa-info-circle
 order: 2
 ---
 
+## TBD
 
-
+<!-- 
 - [open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [sodadata / soda-core](https://github.com/sodadata/soda-core) - Data quality testing for the modern data stack (SQL, Spark, and Pandas).
 - [elementary-data / elementary](https://github.com/elementary-data/elementary) - Open-source data observability for analytics engineers.
@@ -19,5 +20,5 @@ order: 2
 - [conduktor / conduktor-gateway](https://github.com/conduktor/conduktor-gateway) - Tool to intercept and then filter and transform requests and responses between clients and Apache Kafka.
 - [aws-samples / document-processing-pipeline-for-regulated-industries](https://github.com/aws-samples/document-processing-pipeline-for-regulated-industries) - A boilerplate solution for processing image and PDF documents for regulated industries.
 - [provectus / data-quality-gate](https://github.com/provectus/data-quality-gate) - Data Quality Gate based on AWS.
-
+ -->
 

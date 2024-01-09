@@ -14,18 +14,18 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AIM-AHEAD DICB Data Governance # the main title
+title: AIM-AI # the main title
 
-tagline: An AIM-AHEAD Project Site # it will display as the sub-title
+tagline: An ADSP-AIML Project Site # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Collaborative project between Tuskegee University and UTHSC at Houston on AIM-AHEAD DICB initiative, focusing on data governance.
+  Collaborative project between UTHSC at Houston, SUNY and UNC on multi-modality AI/ML research in ADRD.
 
 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://aim-ahead-dicb.github.io"
+url: "https://adsp-aiml.github.io"
 
 github:
   username: x1jiang # change to your github username
@@ -72,7 +72,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://aim-ahead-dicb.github.io/dicb_uttu"
+img_cdn: "https://adsp-aiml.github.io/AIM-AI"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/favicons/avatar3.png"
@@ -114,7 +114,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/dicb_uttu"
+baseurl: "/AIM-AI"
 
 # ------------ The following options are not recommended to be modified ------------------
 

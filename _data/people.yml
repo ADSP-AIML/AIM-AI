@@ -9,79 +9,92 @@
 #   image: /assets/img/people/FS.jpeg
 #   link: https://blackcomputeher.org/felesia-stukes/
 # # ... more people
+- name: Dr. Zhongming Zhao
+role: Principal Investigator
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: zhongming.zhao@uth.tmc.edu
 
-- name: Dr. Channapatna Prakash
-  role: Project Development Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: cprakash@tuskegee.edu
 - name: Dr. Xiaoqian Jiang
-  role: Project Development Lead
-  university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: xiaoqian.jiang@uth.tmc.edu
-- name: Dr. Xiao Chang
-  role: Research Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: xchang@tuskegee.edu
-- name: Dr. Chitra Nayak
-  role: Data Analysis Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: cnayak@tuskegee.edu
-- name: Dr. Honghe Wang
-  role: Content Develop Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: hwang@tuskegee.edu
-- name: Dr. Arif Harmanci
-  role: Seminar Content Lead
-  university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: arif.o.harmanci@uth.tmc.edu
-- name: Dr. Osman Yardimci
-  role: Tool Development Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: oyardimci@tuskegee.edu
-- name: Dr. Vivian Carter
-  role: Engagement Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: vcarter@tuskegee.edu
-- name: Dr. Han Chen
-  role: Workshop Lead
-  university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: han.chen.2@uth.tmc.edu
-- name: Dr. Bala Karanam
-  role: Collaboration Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: balasubramanyam.karanam@tuskegee.edu
-- name: Dr. Mandoye Ndoye
-  role: Data Analysis Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: mndoye@tuskegee.edu
-- name: Dr. Stephen Sodeke
-  role: Ethical Content Lead
-  university: Tuskegee University
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: ssodeke@tuskegee.edu
-- name: Shay Price
-  role: Logistics Coordinator
-  university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: shay.price@uth.tmc.edu
-- name: Angelia Watson
-  role: Development Coordinator
-  university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: angelia.h.watson@uth.tmc.edu
-- name: Deepthi Viswaroopan
-  role: Website Developer
-  university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
-  email: deepthi.viswaroopan@uth.tmc.edu
+role: Multi Principal Investigator 
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: xiaoqian.jiang@uth.tmc.edu
+
+- name: Dr. Christopher Gaiteri
+role: Multi Principal Investigator 
+university: Rush/SUNY
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Paul Schulz
+role: Co-Investigator
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Yejin Kim
+role: Co-Investigator
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Yulin Dai
+role: Co-Investigator
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Guangsheng Pei
+role: Co-Investigator
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Brisa Fernandes
+role: Postdoctoral Fellow
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Kai Zhang
+role: Postdoctoral Fellow
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Yu-chun Hsu
+role: Postdoctoral Fellow
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Mr. Andi Liu
+role: Graduate Research Assistant
+university: UTHealth
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Hongtu Zhu
+role: Subcontract Principal Investigator (UNC Team)
+university: University of North Carolina at Chapel Hill
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Tengfei Li
+role: Co-Investigator (UNC Team)
+university: University of North Carolina at Chapel Hill
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Shinya Tasaki
+role: Co-Investigator (Rush Team)
+university: Rush University Medical Center
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
+
+- name: Dr. Artemis Latrou
+role: Postdoctoral Scientist (Rush Team)
+university: Rush University Medical Center
+image: /assets/img/favicons/wildcard_icon.jpg
+email: Not provided
