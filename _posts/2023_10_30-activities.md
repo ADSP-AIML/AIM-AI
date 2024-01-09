@@ -1,11 +1,12 @@
 ---
-title: September Activities
+title: October Activities
 author:  Xiaoqian Jiang
 date: 2023-01-05 20:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [activiteis]
 pin: true
 ---
+
 ## AIM-AI Project: October 2023 - Monthly Activity Overview
 
 ### Week 1: Strategic Planning and Review
