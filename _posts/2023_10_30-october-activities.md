@@ -3,7 +3,7 @@ title: October Activities
 author:  Xiaoqian Jiang
 date: 2023-01-05 20:55:00 +0800
 categories: [Meeting, Collaboration]
-tags: [activiteis]
+tags: [writing]
 pin: true
 ---
 

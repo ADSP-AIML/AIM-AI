@@ -3,7 +3,7 @@ title: November Activities
 author:  Xiaoqian Jiang
 date: 2023-11-30 20:55:00 +0800
 categories: [Meeting, Collaboration]
-tags: [activiteis]
+tags: [writing]
 pin: true
 ---
 
