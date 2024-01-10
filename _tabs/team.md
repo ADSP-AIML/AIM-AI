@@ -13,7 +13,6 @@ order: 1
 <!-- ## People -->
 
 
-
 <!-- ![Dr. Channapatna Prakash](/assets/img/people/cprakash.jpg)
 **Dr. Channapatna Prakash** - Tuskegee University
 Overseeing project development; leading metrics and survey development.
