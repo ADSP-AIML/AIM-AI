@@ -6,13 +6,12 @@ order: 1
 ---
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<!-- {: .prompt-tip } -->
 
 <!-- 
 <img src="{{ site.url | append: site.baseurl | append: '/assets/img/team.png' }}" class="card-img-top img-fluid" alt="Team Image" /> -->
  
 ```markdown
-![AIM-AI team](/assets/img/team.png)
-_Our team structure_
+![AIM-AI team]({{ site.url | append: site.baseurl | append: '/assets/img/team.png' }})
+Our team structure
 ```
-{: .nolineno}
