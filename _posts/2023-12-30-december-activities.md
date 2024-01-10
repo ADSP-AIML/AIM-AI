@@ -1,6 +1,6 @@
 ---
 title: December Activities
-author:  Xiaoqian Jiang
+author:  xj
 date: 2023-12-31 20:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [writing]

@@ -1,6 +1,6 @@
 ---
 title: November Activities
-author:  Xiaoqian Jiang
+author:  xj
 date: 2023-11-30 20:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [writing]

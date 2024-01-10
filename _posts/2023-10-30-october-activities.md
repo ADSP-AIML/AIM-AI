@@ -1,6 +1,6 @@
 ---
 title: October Activities
-author:  Xiaoqian Jiang
+author:  xj
 date: 2023-01-05 20:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [writing]
