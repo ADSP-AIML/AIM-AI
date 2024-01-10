@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: AIM-AI # the main title
 
-tagline: An ADSP-AIML Project Site # it will display as the sub-title
+tagline: An ADSP-AIML Project Supported by NIA U01AG079847-01A1	 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Collaborative project between UTHSC at Houston, SUNY and UNC on multi-modality AI/ML research in ADRD.
+  Collaborative project between UTHealth at Houston, SUNY, RUSH, and UNC on multi-modality AI/ML research in ADRD.
 
 
 
