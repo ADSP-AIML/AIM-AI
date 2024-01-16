@@ -46,11 +46,11 @@
   image: /assets/img/favicons/wildcard_icon.jpg
   email: Not provided
 
-# - name: Dr. Guangsheng Pei
-#   role: Co-Investigator
-#   university: UTHealth
-#   image: /assets/img/favicons/wildcard_icon.jpg
-#   email: Not provided
+- name: Dr. Lishan Yu
+  role: Co-Investigator
+  university: UTHealth
+  image: /assets/img/favicons/wildcard_icon.jpg
+  email: Not provided
 
 - name: Dr. Brisa Fernandes
   role: Postdoctoral Fellow
