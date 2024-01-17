@@ -13,7 +13,7 @@ pin: true
 ### Week 1: Review and Advanced Training
 * **Post-Review Adjustments and Training**
   * Review the progress and outcomes from October.
-  * Conduct advanced training sessions for team members on latest AI and neuroimaging techniques.
+  * Conduct training sessions for team members on latest AI and neuroimaging techniques.
 
 ### Week 2: Data Quality and Analysis
 * **Focus on Data Quality Assurance**

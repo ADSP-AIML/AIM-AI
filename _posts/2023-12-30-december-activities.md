@@ -36,7 +36,7 @@ pin: true
 
 ### Continuous Activities Throughout the Month:
 * Regular coordination meetings for year-end activities.
-* Documentation and archival of all research data and findings from 2023.
+* Documentation and archival of research data and findings from 2023.
 * Continuous communication for seamless transition into the new year.
 
 ### Key Objectives for December:
