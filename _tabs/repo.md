@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
-layout: page
+# layout: page
+layout: repo
 icon: fas fa-info-circle
 order: 2
 ---
