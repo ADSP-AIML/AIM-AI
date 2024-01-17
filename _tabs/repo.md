@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-## TBD
+## To be updated
 
 <!-- 
 - [open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
