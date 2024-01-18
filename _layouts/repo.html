@@ -7,7 +7,7 @@ layout: page
 
     <div class="col-lg-3 item-image-col">
         <a href="{{ site.url | append: site.baseurl | append: project.url }}">
-            <div class="item-image" style="background-image: url('{{ site.url | append: site.baseurl | append: project.image }}');"> </div>
+            <img class="item-image" src="{{ site.url | append: site.baseurl | append: project.image }}" alt="{{ project.title }}">
         </a>
     </div>
 
@@ -16,64 +16,26 @@ layout: page
             <div class="col-lg-9 item-content">
                 <h1><a href="{{ site.url | append: site.baseurl | append: project.url }}">{{ project.title }}</a></h1>
                 <p class="author-section" style="padding-top:2px">
-                    <span class="item-github-link">
-                        <span class="icon-wrapper icon-ion" data-name="logo-github" style="width: 20px; height: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512"><path d="M256 32C132.3 32 32 134.9 32 261.7c0 101.5 64.2 187.5 153.2 217.9a17.56 17.56 0 0 0 3.8.4c8.3 0 11.5-6.1 11.5-11.4 0-5.5-.2-19.9-.3-39.1a102.4 102.4 0 0 1-22.6 2.7c-43.1 0-52.9-33.5-52.9-33.5-10.2-26.5-24.9-33.6-24.9-33.6-19.5-13.7-.1-14.1 1.4-14.1h.1c22.5 2 34.3 23.8 34.3 23.8 11.2 19.6 26.2 25.1 39.6 25.1a63 63 0 0 0 25.6-6c2-14.8 7.8-24.9 14.2-30.7-49.7-5.8-102-25.5-102-113.5 0-25.1 8.7-45.6 23-61.6-2.3-5.8-10-29.2 2.2-60.8a18.64 18.64 0 0 1 5-.5c8.1 0 26.4 3.1 56.6 24.1a208.21 208.21 0 0 1 112.2 0c30.2-21 48.5-24.1 56.6-24.1a18.64 18.64 0 0 1 5 .5c12.2 31.6 4.5 55 2.2 60.8 14.3 16.1 23 36.6 23 61.6 0 88.2-52.4 107.6-102.3 113.3 8 7.1 15.2 21.1 15.2 42.5 0 30.7-.3 55.5-.3 63 0 5.4 3.1 11.5 11.4 11.5a19.35 19.35 0 0 0 4-.4C415.9 449.2 480 363.1 480 261.7 480 134.9 379.7 32 256 32z"></path></svg></span>  
-                        <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" style="font-size:13px">
-                            {{ project.github_name }}
-                        </a>
-                    </span>
-                    •  <span class="item-framework-link">
-                        <img class="" src="{{ site.url | append: site.baseurl | append: project.framework_image }}">
-                    </span>
-                    •
-                    <span class="author-name-text item-date-pub">{{ project.date }}</span>
+                    <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;">
+                        {{ project.github_name }}
+                    </a>
+                    • {{ project.date }}
                 </p>
                 <p class="item-strip-abstract">{{ project.abstract }}</p>
-                <div class="sota"></div>
-                <p>
-                    <a href="{{ site.url | append: site.baseurl | append: project.task_url }}">
-                        <span class="badge badge-primary">
-                            <img src="{{ site.url | append: site.baseurl | append: project.task_image }}">
-                            <span>{{ project.task_name }}</span>
-                        </span>
-                    </a>
-                </p>
             </div>
             <div class="col-lg-3 item-interact text-center">
                 <div class="entity-stars">
-                    <span class="badge badge-secondary"><span class="icon-wrapper icon-ion" data-name="star" style="width: 20px; height: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512"><path d="M394 480a16 16 0 0 1-9.39-3L256 383.76 127.39 477a16 16 0 0 1-24.55-18.08L153 310.35 23 221.2a16 16 0 0 1 9-29.2h160.38l48.4-148.95a16 16 0 0 1 30.44 0l48.4 149H480a16 16 0 0 1 9.05 29.2L359 310.35l50.13 148.53A16 16 0 0 1 394 480z"></path></svg></span> {{ project.stars }}</span>
+                    <span class="badge badge-secondary">{{ project.stars }} stars</span>
                 </div>
                 <div class="stars-accumulated text-center">
                     {{ project.stars_per_hour }} stars / hour
                 </div>
                 <div class="entity" style="margin-bottom: 20px;">
-                    <a href="{{ site.url | append: site.baseurl | append: project.url }}" class="badge badge-light ">
-                        <span class="icon-wrapper icon-ion" data-name="document" style="width: 20px; height: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512"><path d="M428 224H288a48 48 0 0 1-48-48V36a4 4 0 0 0-4-4h-92a64 64 0 0 0-64 64v320a64 64 0 0 0 64 64h224a64 64 0 0 0 64-64V228a4 4 0 0 0-4-4z"></path><path d="M419.22 188.59L275.41 44.78a2 2 0 0 0-3.41 1.41V176a16 16 0 0 0 16 16h129.81a2 2 0 0 0 1.41-3.41z"></path></svg></span> project
-                    </a>
-                    <br>
-                    <a href="{{ site.url | append: site.baseurl | append: project.code_url }}" class="badge badge-dark ">
-                        <span class="icon-wrapper icon-ion" data-name="logo-github" style="width: 20px; height: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512"><path d="M256 32C132.3 32 32 134.9 32 261.7c0 101.5 64.2 187.5 153.2 217.9a17.56 17.56 0 0 0 3.8.4c8.3 0 11.5-6.1 11.5-11.4 0-5.5-.2-19.9-.3-39.1a102.4 102.4 0 0 1-22.6 2.7c-43.1 0-52.9-33.5-52.9-33.5-10.2-26.5-24.9-33.6-24.9-33.6-19.5-13.7-.1-14.1 1.4-14.1h.1c22.5 2 34.3 23.8 34.3 23.8 11.2 19.6 26.2 25.1 39.6 25.1a63 63 0 0 0 25.6-6c2-14.8 7.8-24.9 14.2-30.7-49.7-5.8-102-25.5-102-113.5 0-25.1 8.7-45.6 23-61.6-2.3-5.8-10-29.2 2.2-60.8a18.64 18.64 0 0 1 5-.5c8.1 0 26.4 3.1 56.6 24.1a208.21 208.21 0 0 1 112.2 0c30.2-21 48.5-24.1 56.6-24.1a18.64 18.64 0 0 1 5 .5c12.2 31.6 4.5 55 2.2 60.8 14.3 16.1 23 36.6 23 61.6 0 88.2-52.4 107.6-102.3 113.3 8 7.1 15.2 21.1 15.2 42.5 0 30.7-.3 55.5-.3 63 0 5.4 3.1 11.5 11.4 11.5a19.35 19.35 0 0 0 4-.4C415.9 449.2 480 363.1 480 261.7 480 134.9 379.7 32 256 32z"></path></svg></span> Code
-                    </a>
+                    <a href="{{ site.url | append: site.baseurl | append: project.url }}" class="badge badge-light">Project</a>
+                    <a href="{{ site.url | append: site.baseurl | append: project.code_url }}" class="badge badge-dark">Code</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 {% endfor %}
-{% endfor %}
-
-
-<!-- - title: "Deep Learning for Image Recognition"
-  url: "/projects/deep-learning-image-recognition"
-  image: "/assets/images/deep-learning-image-recognition-thumbnail.jpg"
-  github: "https://github.com/username/deep-learning-project"
-  github_name: "DeepLearningProject"
-  framework_image: "/assets/img/projects/tensorflow-logo.png"
-  date: "2023-04-01"
-  abstract: "This project explores the use of deep learning algorithms for advanced image recognition tasks, demonstrating state-of-the-art results on benchmark datasets."
-  task_url: "/tasks/image-recognition"
-  task_image: "/assets/images/task-image-recognition-icon.png"
-  task_name: "Image Recognition"
-  stars: "500"
-  stars_per_hour: "2.5"
-  code_url: "/code/deep-learning-image-recognition" -->
