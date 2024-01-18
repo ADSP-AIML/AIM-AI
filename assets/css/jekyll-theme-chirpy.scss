@@ -4,3 +4,7 @@
 @import 'main';
 
 /* append your custom style below */
+.card-header, .card-title {
+    margin: 0; /* Removes any margin */
+    padding: 0; /* Removes any padding */
+  }
