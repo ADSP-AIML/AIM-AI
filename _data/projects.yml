@@ -1,7 +1,7 @@
 
 - title: "CellPLM: A Machine Learning Approach for Cell Phenotype Classification"
   url: "/projects/cellplm"
-  image: "/assets/img/projects/tensorflow_logo.png"
+  image: "/assets/img/projects/CellPLM.png"
   github: "https://github.com/OmicsML/CellPLM"
   github_name: "CellPLM"
   date: "2023-04-01"
