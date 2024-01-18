@@ -6,9 +6,7 @@
   github_name: "CellPLM"
   date: "2023-04-01"
   abstract: "CellPLM is a machine learning-based approach for cell phenotype classification. It leverages deep learning algorithms to classify cell phenotypes based on their morphological features."
-  stars: "500"
-  stars_per_hour: "2.5"
-  code_url: "/code/cellplm" 
+ 
 
 - title: "Natural Language Processing with BERT"
   url: "/projects/nlp-bert"
@@ -17,6 +15,3 @@
   github_name: "NLPBERT"
   date: "2023-03-15"
   abstract: "Investigating the capabilities of BERT models for understanding and generating human language."
-  stars: "350"
-  stars_per_hour: "1.8"
-  code_url: "/code/nlp-bert"
