@@ -14,8 +14,8 @@ layout: page
             <div class="card-header">{{ project.title }}</div>
             <div class="card-body text-primary">
                 <h5 class="card-title">
-                    <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;">
-                        {{ project.github_name }}
+                    <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" title="View on GitHub">
+                        {{ project.github_name }} on GitHub
                     </a>
                 </h5>
                 <h6 class="card-subtitle mb-2 text-muted">{{ project.date }}</h6>
