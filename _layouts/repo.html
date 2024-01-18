@@ -5,9 +5,7 @@ layout: page
 {% for project in site.data.projects %}
 <div class="row flex-grow-1 w-100">
     <div class="col-lg-3 item-image-col">
-        <a href="{{ site.url | append: site.baseurl | append: project.url }}">
             <img class="item-image" src="{{ site.url | append: site.baseurl | append: project.image }}" alt="{{ project.title }}">
-        </a>
     </div>
     <div class="col-lg-9 item-col">
         <div class="card border-primary mb-3" style="max-width: 100%;">
@@ -16,6 +14,9 @@ layout: page
                 <h5 class="card-title">
                     <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" title="View on GitHub">
                         {{ project.github_name }} on GitHub
+                    </a>
+                    <a href="{{ project.url }}" onclick="captureOutboundLink('{{ project.url }}'); return true;" title="View Project Paper">
+                        View the paper for: {{ project.title }}
                     </a>
                 </h5>
                 <h6 class="card-subtitle mb-2 text-muted">{{ project.date }}</h6>
