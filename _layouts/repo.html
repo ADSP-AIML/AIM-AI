@@ -4,24 +4,30 @@ layout: page
 
 {% for project in site.data.projects %}
 <div class="row flex-grow-1 w-100">
-    <div class="col-lg-3 item-image-col">
+    <!-- <div class="col-lg-3 item-image-col">
             <img class="item-image" src="{{ site.url | append: site.baseurl | append: project.image }}" alt="{{ project.title }}">
-    </div>
+    </div> -->
     <div class="col-lg-9 item-col">
         <div class="card border-primary mb-3" style="max-width: 100%;">
             <div class="card-header">{{ project.title }}</div>
-            <div class="card-body text-primary">
-                <h5 class="card-title">
-                    <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" title="View on GitHub">
-                        {{ project.github_name }} on GitHub
-                    </a>
-                </h5>
-                <h5 class="card-title">                    
-                    <a href="{{ project.url }}" onclick="captureOutboundLink('{{ project.url }}'); return true;" title="View Project Paper">
-                        View the paper for: {{ project.title }}
-                    </a>
-                </h5>
-                <h6 class="card-subtitle mb-2 text-muted">{{ project.date }}</h6>
+            <div class="card-body text-primary d-flex">
+                <div class="item-image-container">
+                    <img class="item-image" src="{{ site.url | append: site.baseurl | append: project.image }}" alt="{{ project.title }}">
+                </div>
+                <div class="card-content">
+                    <h5 class="card-title">
+                        <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" title="View on GitHub">
+                            {{ project.github_name }} on GitHub
+                        </a>
+                    </h5>
+                    <h5 class="card-title">                    
+                        <a href="{{ project.url }}" onclick="captureOutboundLink('{{ project.url }}'); return true;" title="View Project Paper">
+                            View the paper for: {{ project.title }}
+                        </a>
+                    </h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ project.date }}</h6>
+                </div>
+            </div>
                 <p class="card-text">{{ project.abstract }}</p>
             </div>
         </div>
