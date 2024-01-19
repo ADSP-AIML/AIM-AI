@@ -2,6 +2,11 @@
 layout: page
 ---
 
+<!-- Include the page content here -->
+<div class="page-content">
+    {{ content | markdownify }}
+  </div>
+
 {% for project in site.data.projects %}
 <div class="row flex-grow-1 w-100">
     

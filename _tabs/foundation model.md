@@ -6,7 +6,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-## To be updated
+This page includes a curated list of relevant foundation models in the context of our multi-modality Alzheimer's disease research project. These models provide a solid base for understanding and exploring the complex interactions and dependencies in Alzheimer's disease progression.
 
 <!-- 
 - [open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
