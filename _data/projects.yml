@@ -6,7 +6,7 @@
   github_name: "CellPLM"
   date: "2023-04-01"
   abstract: "CellPLM is a machine learning-based approach for cell phenotype classification. It leverages deep learning algorithms to classify cell phenotypes based on their morphological features."
- - title: "A visual-language foundation model for pathology image analysis using medical Twitter"
+- title: "A visual-language foundation model for pathology image analysis using medical Twitter"
   url: "https://www.nature.com/articles/s41591-023-02504-3"
   image: "/assets/img/projects/webplip.png"
   github: "https://huggingface.co/spaces/vinid/webplip"
