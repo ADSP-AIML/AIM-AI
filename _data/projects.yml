@@ -12,5 +12,12 @@
   github: "https://huggingface.co/spaces/vinid/webplip"
   github_name: "webplip"
   date: "2023-08-17"
-  journal_year: "2023"
   abstract: "This is a multimodal AI with both image and text understanding. PLIP achieves state-of-the-art zero-shot and few-short performance for classifying new pathology images across diverse tasks. Moreover, PLIP enables users to retrieve similar cases by either image or natural language search, greatly facilitating knowledge sharing. Our approach demonstrates that publicly shared medical data is a tremendous opportunity that can be harnessed to advance biomedical AI."
+- title: "LLaVA-Med: A Machine Learning Approach for Medical Data Analysis"
+  url: "https://arxiv.org/abs/2306.00890"
+  image: "/assets/img/projects/LLaVA-Med.png"
+  github: "https://github.com/microsoft/LLaVA-Med"
+  github_name: "LLaVA-Med"
+  date: "2023-09-01"
+  abstract: "LLaVA-Med is a machine learning-based approach for medical data analysis. It leverages advanced algorithms to analyze and interpret complex medical data."
+
