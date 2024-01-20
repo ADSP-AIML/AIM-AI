@@ -10,7 +10,7 @@ layout: page
 {% for project in site.data.projects %}
 <div class="row flex-grow-1 w-100">
     <div class="col-12">
-        <div class="card border-grey mb-3" style="max-width: 100%; border: 3px solid #343a40;">
+        <div class="card border-grey mb-3" style="max-width: 100%; border: 1px solid #343a40;">
             <div class="card-header">{{ project.title }}</div>
             <div class="card-body text-primary">
                 <div class="row">
@@ -20,12 +20,12 @@ layout: page
                     <div class="col-md-8 card-content">
                         <h5 class="card-title">
                             <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" title="View on GitHub">
-                                {{ project.github_name }} on GitHub
+                                Check out: {{ project.github_name }} on GitHub
                             </a>
                         </h5>
                         <h5 class="card-title">                    
-                            <a href="{{ project.url }}" onclick="captureOutboundLink('{{ project.url }}'); return true;" title="View Project Paper">
-                                View the paper for: {{ project.title }}
+                            <a href="{{ project.url }}" onclick="captureOutboundLink('{{ project.url }}'); return true;" title="Read Project Paper">
+                                Read the paper of: "{{ project.title }}"
                             </a>
                         </h5>
                         <h6 class="card-subtitle mb-2 text-muted" style="margin-bottom: 2px;">{{ project.date }}</h6>
