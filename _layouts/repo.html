@@ -20,12 +20,12 @@ layout: page
                     <div class="col-md-8 card-content">
                         <h5 class="card-title">
                             <a href="{{ project.github }}" onclick="captureOutboundLink('{{ project.github }}'); return true;" title="View on GitHub">
-                                Check out: {{ project.github_name }} on GitHub
+                                Check out [{{ project.github_name }}] on GitHub
                             </a>
                         </h5>
                         <h5 class="card-title">                    
                             <a href="{{ project.url }}" onclick="captureOutboundLink('{{ project.url }}'); return true;" title="Read Project Paper">
-                                Read the paper of: "{{ project.title }}"
+                                Read the paper: "{{ project.title }}"
                             </a>
                         </h5>
                         <h6 class="card-subtitle mb-2 text-muted" style="margin-bottom: 2px;">{{ project.date }}</h6>
