@@ -20,4 +20,10 @@
   github_name: "LLaVA-Med"
   date: "2023-09-01"
   abstract: "LLaVA-Med is a machine learning-based approach for medical data analysis. It leverages advanced algorithms to analyze and interpret complex medical data."
-
+- title: "BrainLM: A Machine Learning Approach for Brain Data Analysis"
+  url: "https://arxiv.org/abs/2306.00890"
+  image: "/assets/img/projects/brainlm.png"
+  github: "https://github.com/vandijklab/BrainLM"
+  github_name: "BrainLM"
+  date: "2023-09-01"
+  abstract: "BrainLM is a machine learning-based approach for brain data analysis. It leverages advanced algorithms to analyze and interpret complex brain data."
