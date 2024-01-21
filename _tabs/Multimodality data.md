@@ -40,9 +40,9 @@ order: 3
    - NACC DP includes various data search and access interfaces.
    - Digital Biomarker Pilots: [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots)
 
+
 #### Guide to Requesting Access to Alzheimer's Research Datasets
-<div style="overflow-x:auto;">
-<table>
+<table style="width:100%; table-layout:fixed;">
 <tr>
 <th>Dataset Category</th>
 <th>Access Process</th>
@@ -86,4 +86,4 @@ order: 3
 <td><a href="https://naccdata.org/nacc-collaborations/digital-biomarker-pilots">Digital Biomarker Pilots</a></td>
 </tr>
 </table>
-</div>
+
