@@ -41,11 +41,49 @@ order: 3
    - Digital Biomarker Pilots: [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots)
 
 #### Guide to Requesting Access to Alzheimer's Research Datasets
-
-| **Dataset Category**                    | **Access Process**                                                    | **Link for Access**                                                                                     |
-|-----------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| NACC Data (UDS and Neuropathology Data) | Complete a data request form.                                         | [NACC Data Request](https://naccdata.org/requesting-data/nacc-data)                                      |
-| MRI and PET Data                        | Use the MRI Preview System for requests.                              | [MRI Preview System](https://naccdata.org/requesting-data/mri-previews)                                  |
-| Biospecimen Data                        | Request via the Biospecimen Locator.                                  | [Biospecimen Locator](https://naccdata.org/requesting-data/biospecimen-locator)                          |
-| Genetic and Genomic Data                | - NCRAD Data: Follow guidelines on the access page.<br/>- ADGC Data: Submit a project proposal.<br/>- ADSP Data: Apply via the ADSP Umbrella Dataset page. | - [NCRAD Data Access](https://www.ncrad.org/accessing_data.html)<br/>- [ADGC Project Submission](https://www.adgenetics.org/content/submit-adgc-special-analysis-group-project-sag)<br/>- [ADSP Umbrella Dataset (NIAGADS DSS)](http://vmacdata.org/adsp-phc) |
-| Digital Biomarker and Neuropathology Data | Find information and access details on the respective project pages. | [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots)            |
+<div style="overflow-x:auto;">
+<table>
+<tr>
+<th>Dataset Category</th>
+<th>Access Process</th>
+<th>Link for Access</th>
+</tr>
+<tr>
+<td>NACC Data (UDS and Neuropathology Data)</td>
+<td>Complete a data request form.</td>
+<td><a href="https://naccdata.org/requesting-data/nacc-data">NACC Data Request</a></td>
+</tr>
+<tr>
+<td>MRI and PET Data</td>
+<td>Use the MRI Preview System for requests.</td>
+<td><a href="https://naccdata.org/requesting-data/mri-previews">MRI Preview System</a></td>
+</tr>
+<tr>
+<td>Biospecimen Data</td>
+<td>Request via the Biospecimen Locator.</td>
+<td><a href="https://naccdata.org/requesting-data/biospecimen-locator">Biospecimen Locator</a></td>
+</tr>
+<tr>
+<td>Genetic and Genomic Data</td>
+<td>
+<ul>
+<li>NCRAD Data: Follow guidelines on the access page.</li>
+<li>ADGC Data: Submit a project proposal.</li>
+<li>ADSP Data: Apply via the ADSP Umbrella Dataset page.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="https://www.ncrad.org/accessing_data.html">NCRAD Data Access</a></li>
+<li><a href="https://www.adgenetics.org/content/submit-adgc-special-analysis-group-project-sag">ADGC Project Submission</a></li>
+<li><a href="http://vmacdata.org/adsp-phc">ADSP Umbrella Dataset (NIAGADS DSS)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Digital Biomarker and Neuropathology Data</td>
+<td>Find information and access details on the respective project pages.</td>
+<td><a href="https://naccdata.org/nacc-collaborations/digital-biomarker-pilots">Digital Biomarker Pilots</a></td>
+</tr>
+</table>
+</div>
