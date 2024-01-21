@@ -42,7 +42,11 @@ order: 3
 
 
 #### Guide to Requesting Access to Alzheimer's Research Datasets
-<table style="width:100%; table-layout:fixed;">
+<style>
+  table {width:100%; table-layout:fixed;}
+  th, td {word-wrap:break-word; font-size: 0.8em;}
+</style>
+<table>
 <tr>
 <th>Dataset Category</th>
 <th>Access Process</th>
