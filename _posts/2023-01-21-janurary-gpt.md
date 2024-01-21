@@ -15,4 +15,4 @@ The Alzheimer's Info Assistant prioritizes clear, concise, and accurate informat
 
 The information provided by the Alzheimer's Info Assistant comes from reputable sources such as the Alzheimer's Disease Genetics Consortium (ADGC), the National Alzheimer's Coordinating Center (NACC), the Alzheimer's Disease Sequencing Project (ADSP), the National Alzheimer's Project Act (NAPA), and the Alzheimer's Disease Knowledge Portal.
 
-We have used this new tool to generate the information displayed on our [Multimodality Data](/tabs/Multimodality%20data) page. We believe this tool will be a valuable resource for anyone seeking in-depth knowledge about Alzheimer's disease data.
+We have used this new tool to generate the information displayed on our [Multimodality Data](/AIM_AI/Multimodality-data) page. We believe this tool will be a valuable resource for anyone seeking in-depth knowledge about Alzheimer's disease data.
