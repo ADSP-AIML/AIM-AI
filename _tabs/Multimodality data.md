@@ -6,8 +6,7 @@ icon: fas fa-info-circle
 order: 3
 ---
 
-#### Overview of Multimodality Data
-
+### Overview of Multimodality Data
 
 1. **Standardized Longitudinal Clinical Data (UDS)**
    - Over 40K unique individuals and postmortem data for over 6K participants.
@@ -41,11 +40,11 @@ order: 3
    - Digital Biomarker Pilots: [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots)
 
 
-#### Guide to Requesting Access to Alzheimer's Research Datasets
+### Guide to Requesting Access to Alzheimer's Research Datasets
 
 <style>
   table {width:100%; table-layout:auto;}
-  th, td {word-wrap:normal; font-size: 1em; padding: 10px;}
+  th, td {word-wrap:break-word; overflow-wrap:break-word; font-size: 1em; padding: 10px;}
 </style>
 <table>
 <tr>
