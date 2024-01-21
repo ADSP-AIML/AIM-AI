@@ -24,7 +24,7 @@ order: 3
    - Biomarker Imaging Documentation: [Biomarker Imaging Documentation](https://naccdata.org/data-collection/forms-documentation/biomarker-imaging)
 
 4. **Blood Biomarker and Biospecimen Data**
-   - Biomarker data for CSF values of Abeta, P-tau, and T-tau【44†source】.
+   - Biomarker data for CSF values of Abeta, P-tau, and T-tau.
    - Biospecimen Locator: [Biospecimen Locator](https://naccdata.org/requesting-data/biospecimen-locator)
    - Biomarker Imaging Documentation: [Biomarker Imaging Documentation](https://naccdata.org/data-collection/forms-documentation/biomarker-imaging)
 
@@ -35,7 +35,7 @@ order: 3
    - ADGC Special Analysis Group Project: [Submit a Project](https://www.adgenetics.org/content/submit-adgc-special-analysis-group-project-sag)
 
 6. **Digital Biomarker and Neuropathology Data**
-   - NACC DP includes various data search and access interfaces【59†source】.
+   - NACC DP includes various data search and access interfaces.
    - Digital Biomarker Pilots: [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots)
 
 
