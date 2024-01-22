@@ -41,13 +41,14 @@ order: 3
 
 
 ### Guide to Requesting Access to Alzheimer's Research Datasets
-Dataset Category | Link for Access
---- | ---
-NACC Data (UDS and Neuropathology Data) | [NACC Data Request](https://naccdata.org/requesting-data/nacc-data)
-MRI and PET Data | [MRI Preview System](https://naccdata.org/requesting-data/mri-previews)
-Biospecimen Data | [Biospecimen Locator](https://naccdata.org/requesting-data/biospecimen-locator)
-Genetic and Genomic Data - NCRAD Data | [NCRAD Data Access](https://www.ncrad.org/accessing_data.html)
-Genetic and Genomic Data - ADGC Data | [ADGC Project Submission](https://www.adgenetics.org/content/submit-adgc-special-analysis-group-project-sag)
-Genetic and Genomic Data - ADSP Data | [ADSP Umbrella Dataset (NIAGADS DSS)](http://vmacdata.org/adsp-phc)
-Digital Biomarker and Neuropathology Data | [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots)
+
+| Dataset Category | Link for Access |
+| --- | --- |
+| NACC Data (UDS and Neuropathology Data) | [NACC Data Request](https://naccdata.org/requesting-data/nacc-data) |
+| MRI and PET Data | [MRI Preview System](https://naccdata.org/requesting-data/mri-previews) |
+| Biospecimen Data | [Biospecimen Locator](https://naccdata.org/requesting-data/biospecimen-locator) |
+| Genetic and Genomic Data - NCRAD Data | [NCRAD Data Access](https://www.ncrad.org/accessing_data.html) |
+| Genetic and Genomic Data - ADGC Data | [ADGC Project Submission](https://www.adgenetics.org/content/submit-adgc-special-analysis-group-project-sag) |
+| Genetic and Genomic Data - ADSP Data | [ADSP Umbrella Dataset (NIAGADS DSS)](http://vmacdata.org/adsp-phc) |
+| Digital Biomarker and Neuropathology Data | [Digital Biomarker Pilots](https://naccdata.org/nacc-collaborations/digital-biomarker-pilots) |
 
