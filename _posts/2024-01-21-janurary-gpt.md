@@ -11,9 +11,14 @@ pin: true
 
 We are excited to announce the release of a new pilot tool, the "Alzheimer's Disease Info Assistant", powered by the latest GPT4 model. This tool is available at [Alzheimer's Disease Info Assistant](https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant).
 
-<a href="https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant">
+<!-- <a href="https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant">
     <img src="{{ site.url | append: site.baseurl | append: '/assets/img/ad_info_chatbot.png' }}" class="card-img-top img-fluid" alt="AD Info Chatbot" />
-</a>
+</a> -->
+
+```markdown
+![AD Info Chatbot]({{ site.url | append: site.baseurl | append: '/assets/img/ad_info_chatbot.png' }})
+_Alzheimer's Disease Info Assistant_
+```
 
 ### Tool Features
 
