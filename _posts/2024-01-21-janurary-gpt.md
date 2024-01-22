@@ -21,5 +21,5 @@ The Alzheimer's Info Assistant utilizes information from public and reputable so
 
 ### Application of the Tool
 
-We have used this new tool to generate the information displayed on our [Multimodality Data](/AIM_AI/Multimodality-data/) page. We believe this tool will be a valuable resource for anyone seeking in-depth knowledge about Alzheimer's disease data.
+We have used this new tool to generate the information displayed on our [Multimodality Data](/AIM-AI/Multimodal-data/) page. We believe this tool will be a valuable resource for anyone seeking in-depth knowledge about Alzheimer's disease data.
 
