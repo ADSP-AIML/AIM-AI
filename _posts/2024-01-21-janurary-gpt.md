@@ -5,6 +5,10 @@ date: 2024-01-21 10:23:00 +0800
 categories: [model, information]
 tags: [gpt]
 pin: true
+image:
+  path: /assets/img/ad_info_chatbot.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Alzheimer's Disease Info Assistant
 ---
 
 ## Introducing the Alzheimer's Disease Info Assistant
@@ -15,10 +19,10 @@ We are excited to announce the release of a new pilot tool, the "Alzheimer's Dis
     <img src="{{ site.url | append: site.baseurl | append: '/assets/img/ad_info_chatbot.png' }}" class="card-img-top img-fluid" alt="AD Info Chatbot" />
 </a> -->
 
-```markdown
+<!-- ```markdown
 ![AD Info Chatbot]({{ site.url | append: site.baseurl | append: '/assets/img/ad_info_chatbot.png' }})
 _Alzheimer's Disease Info Assistant_
-```
+``` -->
 
 ### Tool Features
 
