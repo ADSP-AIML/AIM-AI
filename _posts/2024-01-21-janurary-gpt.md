@@ -11,6 +11,10 @@ pin: true
 
 We are excited to announce the release of a new pilot tool, the "Alzheimer's Disease Info Assistant", powered by the latest GPT4 model. This tool is available at [Alzheimer's Disease Info Assistant](https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant).
 
+<a href="https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant">
+    <img src="{{ site.url | append: site.baseurl | append: '/assets/img/ad_info_chatbot.png' }}" class="card-img-top img-fluid" alt="AD Info Chatbot" />
+</a>
+
 ### Tool Features
 
 The Alzheimer's Info Assistant prioritizes clear, concise, and accurate information delivery. The assistant uses technical terms appropriately and explains complex data concepts in an academic style. The assistant is designed to ask for clarification on vague queries to provide the most relevant and accurate information. It focuses on data availability, types, and access methods, and always cites sources for the information, especially when providing URLs for further reference.
