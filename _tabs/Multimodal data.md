@@ -8,6 +8,8 @@ order: 3
 
 > Supported by  [Alzheimer's Disease Info Assistant](https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant) model
 {: .prompt-tip }
+> See more details in our [Janurary post](/AIM-AI/posts/janurary-gpt/) 
+{: .prompt-info }
 
 ### Overview of Multimodality Data
 
