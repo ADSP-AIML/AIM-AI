@@ -6,6 +6,9 @@ icon: fas fa-info-circle
 order: 3
 ---
 
+> Supported by  `[Alzheimer's Disease Info Assistant](https://chat.openai.com/g/g-7kFSx5kWc-alzheimer-s-disease-info-assistant)` model
+{: .prompt-tip }
+
 ### Overview of Multimodality Data
 
 1. **Standardized Longitudinal Clinical Data (UDS)**
