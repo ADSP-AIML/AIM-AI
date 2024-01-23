@@ -39,6 +39,9 @@ order: 3
    - Partnerships for Genomic Collaborations: [Partnerships](https://naccdata.org/nacc-collaborations/partnerships)
    - Accessing NCRAD Data: [Accessing NCRAD Data](https://www.ncrad.org/accessing_data.html)
    - ADGC Special Analysis Group Project: [Submit a Project](https://www.adgenetics.org/content/submit-adgc-special-analysis-group-project-sag)
+   - NIAGADS Genomics Data Browser: [Data Browser](https://www.niagads.org/genomics/app/visualizations/browser)
+   - Advanced Variant Data Portal: [Advanced Variant Data Portal](https://advp.niagads.org/)
+   - VariXam Variant Browser: [VariXam](https://varixam.niagads.org/)
 
 6. **Digital Biomarker and Neuropathology Data**
    - NACC DP includes various data search and access interfaces.
