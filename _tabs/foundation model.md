@@ -2,7 +2,7 @@
 # the default layout is 'page'
 # layout: page
 layout: repo
-icon: fas fa-info-circle
+icon: fas fa-cogs
 order: 2
 ---
 

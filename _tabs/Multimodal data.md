@@ -2,7 +2,7 @@
 # the default layout is 'page'
 # layout: page
 layout: page
-icon: fas fa-info-circle
+icon: fas fa-cube
 order: 3
 ---
 
