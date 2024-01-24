@@ -6,7 +6,11 @@ icon: fas fa-info-circle
 order: 2
 ---
 
+>We would appreciate the community's input to enrich our knowledge. Please take a moment to fill out our [survey](https://uthtmc.az1.qualtrics.com/jfe/form/SV_d70SS2Qu6BSzETY).
+{: .prompt-info }
+
 This page includes a curated list of relevant foundation models in the context of our multi-modality Alzheimer's disease research project. These models provide a solid base for understanding and exploring the complex interactions and dependencies in Alzheimer's disease progression.
+
 
 <!-- 
 - [open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
